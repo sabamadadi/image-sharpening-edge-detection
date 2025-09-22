@@ -1,4 +1,4 @@
-# Image Processing and Edge Detection Report
+# Image Processing and Edge Detection
 
 ## Abstract
 This study presents various image processing techniques applied to a set of five images. Methods include spatial domain sharpening using high-pass filters, Laplacian operators, and unsharp masking, as well as frequency-domain sharpening using Fourier transforms. Edge detection is performed using the Canny method. The results demonstrate enhancement of image details and effective boundary extraction.
