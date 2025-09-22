@@ -27,38 +27,52 @@ Processed images were visualized for qualitative assessment.
 
 ### 3.1 Original Image 1.1
 
-<center>
-<img src="data/1.1.png" alt="Original Image 1.1" width="400"/>
-<br>Figure 1: Original grayscale image 1.1
-</center>
+<div align="center">
+
+### 🔹 Figure 1: Original grayscale image 1.1
+<img src="data/1.1.png" alt="" width="65%"/>
+
+</div>
+
 
 ### 3.2 High-Pass Filtering
 
-<center>
-<img src="data/1.1_highpass.png" alt="High-Pass Sharpened Image" width="400"/>
-<br>Figure 2: Image 1.1 after high-pass filtering
-</center>
+<div align="center">
+
+### 🔹 Figure 2: Image 1.1 after high-pass filtering
+<img src="data/1.1_highpass.png" alt="" width="65%"/>
+
+</div>
 
 ### 3.3 Laplacian Sharpening
 
-<center>
-<img src="data/1.1_laplacian.png" alt="Laplacian Sharpened Image" width="400"/>
-<br>Figure 3: Image 1.1 after Laplacian sharpening
-</center>
+<div align="center">
+
+### 🔹 Figure 3: Image 1.1 after Laplacian sharpening
+<img src="data/1.1_laplacian.png" alt="" width="65%"/>
+
+</div>
+
 
 ### 3.4 Unsharp Masking
 
-<center>
-<img src="data/1.1_unsharp.png" alt="Unsharp Masked Image" width="400"/>
-<br>Figure 4: Image 1.1 after unsharp masking
-</center>
+<div align="center">
+
+### 🔹 Figure 4: Image 1.1 after unsharp masking
+<img src="data/1.1_unsharp.png" alt="" width="65%"/>
+
+</div>
+
 
 ### 3.5 Frequency-Domain Sharpening
 
-<center>
-<img src="data/1.1_frequency.png" alt="Frequency Domain Sharpened Image" width="400"/>
-<br>Figure 5: Image 1.1 after frequency-domain sharpening
-</center>
+<div align="center">
+
+### 🔹 Figure 5: Image 1.1 after frequency-domain sharpening
+<img src="data/1.1_frequency.png" alt="" width="65%"/>
+
+</div>
+
 
 ---
 
@@ -66,27 +80,39 @@ Processed images were visualized for qualitative assessment.
 
 #### Image 1.2
 
-<center>
-<img src="data/1.2.png" alt="Original Image 1.2" width="400"/>
-<br>Figure 6: Original color image 1.2
-</center>
+<div align="center">
 
-<center>
-<img src="data/1.2_edges.png" alt="Edges Image 1.2" width="400"/>
-<br>Figure 7: Edges detected in Image 1.2 using Canny
-</center>
+### 🔹 Figure 6: Original color image 1.2
+<img src="data/1.2.png" alt="" width="65%"/>
+
+</div>
+
+
+<div align="center">
+
+### 🔹 Figure 7: Edges detected in Image 1.2 using Canny
+<img src="data/1.2_edges.png" alt="" width="65%"/>
+
+</div>
+
 
 #### Image 1.3
 
-<center>
-<img src="data/1.3.png" alt="Original Image 1.3" width="400"/>
-<br>Figure 8: Original color image 1.3
-</center>
+<div align="center">
 
-<center>
-<img src="data/1.3_edges.png" alt="Edges Image 1.3" width="400"/>
-<br>Figure 9: Edges detected in Image 1.3 using Canny
-</center>
+### 🔹 Figure 8: Original color image 1.3
+<img src="data/1.3.png" alt="" width="65%"/>
+
+</div>
+
+
+<div align="center">
+
+### 🔹 Figure 9: Edges detected in Image 1.3 using Canny
+<img src="data/1.3_edges.png" alt="" width="65%"/>
+
+</div>
+
 
 ---
 
@@ -94,31 +120,39 @@ Processed images were visualized for qualitative assessment.
 
 #### Image 1.4
 
+<div align="center">
 
-<center>
-<img src="data/1.4.png" alt="Image 1.4" width="400"/>
-<br>Figure 10: Image 1.4 before sharpening
-</center>
+### 🔹 Figure 10: Image 1.4 before sharpening
+<img src="data/1.4.png" alt="" width="65%"/>
+
+</div>
 
 
-<center>
-<img src="data/1.4_sharpened.png" alt="Sharpened Image 1.4" width="400"/>
-<br>Figure 10: Image 1.4 after sharpening
-</center>
+<div align="center">
+
+### 🔹 Figure 11: Image 1.4 after sharpening
+<img src="data/1.4_sharpened.png" alt="" width="65%"/>
+
+</div>
+
 
 #### Image 1.5
 
+<div align="center">
 
-<center>
-<img src="data/1.5.png" alt="Image 1.5" width="400"/>
-<br>Figure 10: Image 1.5 before sharpening
-</center>
+### 🔹 Figure 12: Image 1.5 before sharpening
+<img src="data/1.5.png" alt="" width="65%"/>
+
+</div>
 
 
-<center>
-<img src="data/1.5_sharpened.png" alt="Sharpened Image 1.5" width="400"/>
-<br>Figure 11: Image 1.5 after sharpening
-</center>
+<div align="center">
+
+### 🔹 Figure 13: Image 1.5 after sharpening
+<img src="data/1.5_sharpened.png" alt="" width="65%"/>
+
+</div>
+
 
 ---
 
